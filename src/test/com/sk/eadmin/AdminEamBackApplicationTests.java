@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class AdminEamBackApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void contextLoads() {	// 테스트 코드는 여기에....
 	}
 
 }
